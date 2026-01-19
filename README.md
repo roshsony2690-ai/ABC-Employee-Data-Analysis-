@@ -26,10 +26,14 @@ This project analyzes employee data from ABC Company (458 employees, 9 attribute
 3. Open Jupyter Notebook: `jupyter notebook ABC_Company_Analysis.ipynb`
 
 ## Key Findings
-[Summarize your main insights here]
+- Workforce distribution is uneven across teams, with certain teams having a higher employee count
+- The **30–40 age group** is the predominant age group, indicating a relatively young workforce
+- Senior positions contribute the most to salary expenditure
+- Specific teams have significantly higher salary costs
+- A **moderate positive correlation** exists between age and salary, suggesting experience influences compensation
 
 ## Author
-[Your Name]
+Rosh Sony
 
 ## Submission
-Project submitted for Module 1 End Project
+Project submitted for Module 2: Python Capstone Project -II
