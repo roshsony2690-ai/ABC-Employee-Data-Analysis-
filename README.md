@@ -21,7 +21,7 @@ This project analyzes employee data from ABC Company (458 employees, 9 attribute
 - Jupyter Notebook
 
 ## How to Run
-1. Clone repository: `git clone [your-repo-link]`
+1. Clone repository: `git clone [(https://github.com/roshsony2690-ai/ABC-Employee-Data-Analysis-.git)]`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open Jupyter Notebook: `jupyter notebook ABC_Company_Analysis.ipynb`
 
