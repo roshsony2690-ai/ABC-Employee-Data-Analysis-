@@ -52,8 +52,3 @@ This project analyzes employee data from ABC Company (458 employees, 9 attribute
    - There might be opportunities for standardizing compensation bands.
    - Consider implementing mentorship programs between different age groups.
 
-## Author
-Rosh Sony
-
-## Submission
-Project submitted for Module 2: Python Capstone Project -II
